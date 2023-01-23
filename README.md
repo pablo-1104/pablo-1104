@@ -1,4 +1,4 @@
-### Hi there 👋
+### 👋 Hi there, my name is Pablo Gómez 
 
 - 🔭 I’m currently working on Kotlin with Android Studio
 - 🌱 I’m currently learning about application development 
